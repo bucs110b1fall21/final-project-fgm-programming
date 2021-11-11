@@ -23,6 +23,10 @@
 * << A wireframe or drawing of the user interface concept along with a short description of the interface. You should have one for each screen in your program. >>
     * For example, if your program has a start screen, game screen, and game over screen, you should include a wireframe / screenshot / drawing of each one and a short description of the components
 * << You should also have a screenshot of each screen for your final GUI >>
+![starterGUI](https://raw.githubusercontent.com/ingmarlehmann/qml-invaders/master/docs/screenshots/menu.png)
+![GAME](https://www.nodebox.net/node/documentation/concepts/subnetworks-space-invaders.png)
+![GAMEOVER](https://thumbs.dreamstime.com/b/space-invaders-game-over-9507779.jpg)
+
 
 ***        
 
