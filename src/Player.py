@@ -14,5 +14,5 @@ class Player(pygame.sprite.Sprite):
         self.rect.y = 10
 
     def move(self, direction):
-        
+        pass
 

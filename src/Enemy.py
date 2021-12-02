@@ -18,4 +18,5 @@ class Enemy(pygame.sprite.Sprite):
         self.kill()  
 
     def update(self):
+        pass
         
