@@ -1,6 +1,5 @@
 from src import Controller
 from src import ControllerWithSubloops
-import pygame 
 
 def main():
     #pygame.init()
