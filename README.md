@@ -79,6 +79,12 @@ The Project is broken down into the following file structure:
 
 | Step                  | Procedure     | Expected Results  | Actual Results |
 | ----------------------|:-------------:| -----------------:| -------------- |
-|  1  | Run Counter Program  | GUI window appears with count = 0  |          |
-|  2  | click count button  | display changes to count = 1 |                 |
+|  1  | Run Counter Program  | GUI window appears with count = 0  |      Correct    |
+|  2  | On Click Play Game  | Pygame Window Closes |       Progressing         |
+|  3  | Once Display changes  | Game Starts:
+
+Controller/Player moves in X- Direction
+
+Enemy moves in Y-Direction  |    Progressing      |
+|  3  | Arrow Keys Left + Right  | Player: Moves  |     Progressing     |
 etc...
