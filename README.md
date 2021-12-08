@@ -1,21 +1,21 @@
 :warning: Everything between << >> needs to be replaced (remove << >> after replacing)
 # CS110 Project Proposal
-# << Project Title >>
+# Space Invaders
 ## CS 110 Final Project
-### << Semester, Year >>
+### Fall 2021
 ### [Assignment Description](https://docs.google.com/document/d/1H4R6yLL7som1lglyXWZ04RvTp_RvRFCCBn6sqv-82ps/edit#)
 
-<< [https://github.com/<repo>](#) >>
+[https://github.com/bucs110b1fall21/final-project-fgm-programming](#)
 
 << [link to demo presentation slides](#) >>
 
-### Team: << team name >>
-#### << Team Members >>
+### Team: FGM Programming
+#### George Reisner, Fayeem Mooktadeer, Matthew Davidson
 
 ***
 
 ## Project Description *(Software Lead)*
-<< Give an overview of your project >>
+Our project is a take on the classic "Space Invaders" game. The player takes control of a ship that has to make sure the enemy ships don't go past. The player does this by launching projectiles at the enemy ships to destroy them. If an enemy ship goes past the player without being destroyed, the player will lose a life until they reach zero. The enemies approach in waves each one harder than the last. 
 
 ***    
 
@@ -32,7 +32,7 @@
 
 ## Program Design *(Backend Specialist)*
 * Non-Standard libraries
-    * << You should have a list of any additional libraries or modules used (pygame, request) beyond non-standard python. >>
+    * Pygame, random, sys
     * For each additional module you should include
         * url for the module documentation
         * a short description of the module
@@ -41,7 +41,7 @@
         * ![class diagram](assets/class_diagram.jpg)
     * This does not need to be overly detailed, but should show how your code fits into the Model/View/Controller paradigm.
 * Classes
-    * << You should have a list of each of your classes with a description. >>
+    * controller -  , ControllerWithSubloops - , Enemy - The object that must be destroyed by the player, moves down from the top of the screen, Player - The character that is controllled by the player and can fire projectiles at enemies, as well as move left and right, Projectile - This will be the object fired by the player at the enemy, when it hits the enemy they are destroyed 
 
 ## Project Structure *(Software Lead)*
 
@@ -59,28 +59,26 @@ The Project is broken down into the following file structure:
 ## Tasks and Responsibilities *(Software Lead)*
 * You must outline the team member roles and who was responsible for each class/method, both individual and collaborative.
 
-### Software Lead - << name >>
+### Software Lead - George Reisner
 
-<< Worked as integration specialist by... >>
+Worked as integration specialist by making sure all of the code worked as a whole and fixing bugs and issues when they came up. As well as writing the ATP and the proposals.
 
-### Front End Specialist - << name >>
+### Front End Specialist - Fayeem Mooktadeer
 
-<< Front-end lead conducted significant research on... >>
+Front-end lead conducted significant research on how to make the GUI and controller work, as well as properly implemented them to work with the other parts of the project
 
-### Back End Specialist - << name >>
+### Back End Specialist - Matthew Davidson
 
-<< The back end specialist... >>
+The back end specialist ceated the classes for each part. As well as outlined how the classes interact with each other while the game was underway. Also added the diagrams for how everything will work initially.
 
 ## Testing *(Software Lead)*
-* << Describe your testing strategy for your project. >>
+* We would troubleshoot issues as they happened by doing small sections of the project at once before adding them to the big project. This allowed for easy fixing before bad code messed up larger parts and be harder to spot.
     * << Example >>
 
 * Your ATP
 
 | Step                  | Procedure     | Expected Results  | Actual Results |
 | ----------------------|:-------------:| -----------------:| -------------- |
-|  1  | Run Counter Program  | GUI window appears with count = 0  |      Correct    |
-|  2  | On Click Play Game  | Pygame Window Closes |       Progressing         |
-|  3  | Once Display changes  | Game Starts + Controller/Player moves in X- Direction+ Enemy moves in Y-Direction  |    Progressing      |
-|  4  | Arrow Keys Left + Right  | Player: Moves  |     Progressing     |
+|  1  | Run Counter Program  | GUI window appears with count = 0  |          |
+|  2  | click count button  | display changes to count = 1 |                 |
 etc...
