@@ -25,8 +25,6 @@ Our project is a take on the classic "Space Invaders" game. The player takes con
 * << You should also have a screenshot of each screen for your final GUI >>
 ![starterGUI](https://raw.githubusercontent.com/ingmarlehmann/qml-invaders/master/docs/screenshots/menu.png)
 ![GAME](https://www.nodebox.net/node/documentation/concepts/subnetworks-space-invaders.png)
-![GAMEOVER](https://thumbs.dreamstime.com/b/space-invaders-game-over-9507779.jpg)
-
 
 ***        
 
