@@ -65,7 +65,7 @@ Worked as integration specialist by making sure all of the code worked as a whol
 
 ### Front End Specialist - Fayeem Mooktadeer
 
-Front-end lead conducted significant research on how to make the GUI and controller work, as well as properly implemented them to work with the other parts of the project. Worked on menu loops and images for the sprites
+Front-end lead conducted significant research on how to make the GUI and controller work, as well as properly implemented them to work with the other parts of the project. Worked on Controller class.
 
 ### Back End Specialist - Matthew Davidson
 
