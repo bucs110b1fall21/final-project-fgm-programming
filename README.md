@@ -35,7 +35,6 @@ Our project is a take on the classic "Space Invaders" game. The player takes con
         * url for the module documentation
         * a short description of the module
 * Class Interface Design
-    * << A simple drawing that shows the class relationships in your code (see below for an example). >>
         * ![Flow](https://github.com/bucs110b1fall21/final-project-fgm-programming/blob/master/etc/Flow%20Chart.png?raw=true)
     * This does not need to be overly detailed, but should show how your code fits into the Model/View/Controller paradigm.
 * Classes
