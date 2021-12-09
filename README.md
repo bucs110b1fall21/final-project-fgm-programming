@@ -36,7 +36,7 @@ Our project is a take on the classic "Space Invaders" game. The player takes con
         * a short description of the module
 * Class Interface Design
     * << A simple drawing that shows the class relationships in your code (see below for an example). >>
-        * ![class diagram](etc/Flow Chart.png)
+        * ![Flow](https://github.com/bucs110b1fall21/final-project-fgm-programming/blob/master/etc/Flow%20Chart.png?raw=true)
     * This does not need to be overly detailed, but should show how your code fits into the Model/View/Controller paradigm.
 * Classes
     * controller - Runs the game and its processes required for the game , ControllerWithSubloops - , Enemy - The object that must be destroyed by the player, moves down from the top of the screen, Player - The character that is controlled by the player and can fire projectiles at enemies, as well as move left and right, Projectile - This will be the object fired by the player at the enemy, when it hits the enemy they are destroyed 
