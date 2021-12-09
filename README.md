@@ -84,6 +84,3 @@ The back end specialist ceated the classes for each part. As well as outlined ho
 |  2  | click Play button   | display changes to actual game |         Correct        |
 |  3  | Once lives = 0  | display changes, game is ended |         Correct        |
 |  4  | Round clear | After every round clear, Level increments by one |  Correct |          
-
-
-etc...
