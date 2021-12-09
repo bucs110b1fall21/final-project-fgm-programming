@@ -10,7 +10,7 @@ class Projectile(pygame.sprite.Sprite):
         self.rect = self.image.get_rect()
         self.rect.x = start_x
         self.rect.y = start_y
-        self.speed = 20
+        self.speed = 30
         self.dir = dir
 
     def get_rect(self):
