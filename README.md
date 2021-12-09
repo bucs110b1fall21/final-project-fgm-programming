@@ -61,19 +61,20 @@ The Project is broken down into the following file structure:
 
 ### Software Lead - George Reisner
 
-Worked as integration specialist by making sure all of the code worked as a whole and fixing bugs and issues when they came up. As well as writing the ATP and the proposals.
+Worked as integration specialist by making sure all of the code worked as a whole and fixing bugs and issues when they came up. As well as writing the ATP and the proposals. Worked on classes: Controller, Projectile, Enemy
 
 ### Front End Specialist - Fayeem Mooktadeer
 
-Front-end lead conducted significant research on how to make the GUI and controller work, as well as properly implemented them to work with the other parts of the project
+Front-end lead conducted significant research on how to make the GUI and controller work, as well as properly implemented them to work with the other parts of the project. Worked on menu loops and images for the sprites
 
 ### Back End Specialist - Matthew Davidson
 
-The back end specialist ceated the classes for each part. As well as outlined how the classes interact with each other while the game was underway. Also added the diagrams for how everything will work initially.
+The back end specialist ceated the classes for each part. As well as outlined how the classes interact with each other while the game was underway. Also added the diagrams for how everything will work initially. Worked on class: Player
 
 ## Testing *(Software Lead)*
 * We would troubleshoot issues as they happened by doing small sections of the project at once before adding them to the big project. This allowed for easy fixing before bad code messed up larger parts and be harder to spot.
-    * << Example >>
+    * Originally, a problem we ran into was the classes not showing up on the screen and only showing a blank page. That was fixed by changing the controller. Another issue was the key down command was recording two responses instead of one.
+
 
 * Your ATP
 
