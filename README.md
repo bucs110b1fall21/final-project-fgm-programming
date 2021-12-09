@@ -7,7 +7,7 @@
 
 [https://github.com/bucs110b1fall21/final-project-fgm-programming](#)
 
-<< [link to demo presentation slides](#) >>
+<< https://docs.google.com/presentation/d/1jzPI6umpD0UqyJea72gzyX01JVBz_X8fa4tuqz29JGo/edit?usp=sharing >>
 
 ### Team: FGM Programming
 #### George Reisner, Fayeem Mooktadeer, Matthew Davidson
