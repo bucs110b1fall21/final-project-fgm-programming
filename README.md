@@ -80,6 +80,10 @@ The back end specialist ceated the classes for each part. As well as outlined ho
 
 | Step                  | Procedure     | Expected Results  | Actual Results |
 | ----------------------|:-------------:| -----------------:| -------------- |
-|  1  | Run Counter Program  | GUI window appears with count = 0  |          |
-|  2  | click count button  | display changes to count = 1 |                 |
+|  1  | Run Counter Program | GUI window appears  |   Correct      |
+|  2  | click Play button   | display changes to actual game |         Correct        |
+|  3  | Once lives = 0  | display changes, game is ended |         Correct        |
+|  4  | After every round clear, Level increments by one  | Correct |                 
+
+
 etc...
